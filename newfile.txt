@@ -1,2 +1,4 @@
 this is a new file!
 这是加了gitignore以后的文件
+dfdfdaf
+ddddddddddddd
